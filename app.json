@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "HEALTH-CHECK",
+    "slug": "HEALTH-CHECK",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "yr"
+    }
+  }
+}
